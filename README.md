@@ -9,7 +9,7 @@ I am a Computer Science professional and an fps games enjoyer. If you are a hiri
 *   📧  You can contact me at [er.sagarkoli@gmail.com](mailto:er.sagarkoli@gmail.com).
 *   🧠  I have a degree in B.Tech in Computer Science and Engineering.
 *   🥈  I am also the winner of the very first Smart India Hackathon(National Event).
-*   📄  I have 3 research papers published under some prestigious journal <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/sagar-koli/details/publications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACACK8gBUyHpvAS7Ds7GdGyFWX1Y38FmTh0'>Link</a>.
+*   📄  I have 3 research papers published under prestigious journals like Springers and indiaCom <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/sagar-koli/details/publications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAACACK8gBUyHpvAS7Ds7GdGyFWX1Y38FmTh0'>Link</a>.
 *   🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
