@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagar Koli and I go by the alias of Daystar in the coding as well as gaming community.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sagar Koli and I go by the alias of Daystar in the coding as well as gaming community.
 ========================================================================================================================================
 
-I am a Computer Science professional and an fps games enjoyer. If you are a hiring manager you can find some of my work below 👇 with the tag portfolio in repos most of them should be live if not message me on <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/sagar-koli/'>LinkedIn</a> 😎 . If you are here from my streams and wanna collab on my projects just message me on stream or join my <a target="_blank" rel="noreferrer" href='https://discord.gg/DKWKpgd'>Discord</a>😸.
+<p>I am a Computer Science professional and an fps games enjoyer. If you are a hiring manager you can find some of my work below 👇 with the tag portfolio in repos most of them should be live if not message me on <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/sagar-koli/'>LinkedIn</a> 😎 . If you are here from my streams and wanna collab on my projects just message me on stream or join my <a target="_blank" rel="noreferrer" href='https://discord.gg/DKWKpgd'>Discord</a>😸.</p>
 --------------------------
 
 *   🌍  I'm based in Delhi, India.
